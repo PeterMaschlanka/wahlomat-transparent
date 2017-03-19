@@ -1,5 +1,5 @@
 # wahlomat-transparent
-Wahlomat im Excel-Format (.xls) mit sichtbaren Formeln und individuell gewichtbaren Fragen.
+Wahlomat im Excel-Format (.xls) bzw. OpenOffice-Calc-Format (.ods) mit sichtbaren Formeln und individuell gewichtbaren Fragen.
 
 Fülle den Wahlomat mit politischen Fragen und den Antworten ausgewählter Parteien. (1=Ja, 0=Neutral, -1=Nein).
 
